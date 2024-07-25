@@ -3,7 +3,8 @@
 		"name":"Unity",
 		"resourceType":"Strategic",
 		"uniques":[
-			"Stockpiled"
+			"Cannot be traded",
+			"Doesn't generate naturally"
 		]
 	}
 ]
