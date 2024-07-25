@@ -2,7 +2,6 @@
 	{
 		"name":"Mark of the Capital",
 		"cost":0,
-		"requiredResource":"Unity",
 		"uniques":[
 			"Automatically built in all cities where it is buildable",
 			"Only available <in [Capital] cities>",
