@@ -2,6 +2,7 @@
 	{
 		"name":"Mark of the Capital",
 		"cost":0,
+		"requiredResource":"Unity",
 		"uniques":[
 			"Automatically built in all cities where it is buildable",
 			"Only available <in [Capital] cities>",
@@ -11,10 +12,10 @@
 	{
 		"name":"Charter",
 		"cost":0,
+		"requiredResource":"Unity",
 		"uniques":[
 			"Automatically built in all cities where it is buildable",
 			"Only available <in [non-[Puppeted]] cities>",
-			"Consumes [1] [Unity]",
 			"[+33]% Unhappiness from [Population] [in this city] <when below [0] [Unity]>",
 			"[+33]% Unhappiness from [Population] [in this city] <when below [-1] [Unity]>",
 			"[+34]% Unhappiness from [Population] [in this city] <when below [-2] [Unity]>",
