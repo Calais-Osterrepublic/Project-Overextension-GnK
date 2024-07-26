@@ -13,6 +13,7 @@
 		"cost":0,
 		"uniques":[
 			"Costs [1] [Unity]",
+			"Consumes [1] [Unity] <for every [10] [Population]> <in this city>",
 			"Automatically built in all cities where it is buildable",
 			"Only available <in [non-[Puppeted]] cities>",
 			"Cannot build [Founds a new city] units <in this city> <when below [0] [Unity]> <hidden from users>",
