@@ -326,7 +326,7 @@
 		"uniques":[
 			"[-25]% City-State Influence degradation",
 			"Comment [Consumes 1 Unity upon turn end]",
-			"Instantly consumes [1] [Unity] <upon turn end>"
+			"Instantly consumes [1] [Unity] <upon turn end> <hidden from users>"
 		],
 		"policies":[
 			{
@@ -509,7 +509,7 @@
 					"[+1 Science] from every [Trading post]",
 					"[+17]% [Science] from every [University]",
 					"Comment [Consumes 1 Unity upon turn end]",
-					"Instantly consumes [1] [Unity] <upon turn end>"
+					"Instantly consumes [1] [Unity] <upon turn end> <hidden from users>"
 				],
 				"requires":[
 					"Secularism"
@@ -593,7 +593,7 @@
 				"uniques":[
 					"[8] units cost no maintenance",
 					"Comment [Consumes 1 Unity upon turn end]",
-					"Instantly consumes [1] [Unity] <upon turn end>"
+					"Instantly consumes [1] [Unity] <upon turn end> <hidden from users>"
 				],
 				"requires":[
 					"Constitution"
@@ -673,7 +673,8 @@
 				"uniques":[
 					"[+3 Happiness] from every [Courthouse]",
 					"[+100]% Production when constructing [Courthouse] buildings [in all cities]",
-					"[-25]% enemy spy effectiveness [in all cities]"
+					"[-25]% enemy spy effectiveness [in all cities]",
+					"Provides [1] [Unity] <when below [1] [Unity]>"
 				],
 				"requires":[
 					"Militarism"
@@ -763,7 +764,8 @@
 				"uniques":[
 					"[+2 Production] [in all cities]",
 					"[+1 Production] from every [Mine]",
-					"[+1 Production] from every [Quarry]"
+					"[+1 Production] from every [Quarry]",
+					"Provides [1] [Unity] <when below [1] [Unity]>"
 				],
 				"row":3,
 				"column":3
