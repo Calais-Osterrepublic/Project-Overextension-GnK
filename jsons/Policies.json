@@ -325,7 +325,8 @@
 		},
 		"uniques":[
 			"[-25]% City-State Influence degradation",
-			"Consumes [1] [Unity]"
+			"Comment [Consumes 1 Unity upon turn end]",
+			"Instantly consumes [1] [Unity] <upon turn end>"
 		],
 		"policies":[
 			{
@@ -507,7 +508,8 @@
 				"uniques":[
 					"[+1 Science] from every [Trading post]",
 					"[+17]% [Science] from every [University]",
-					"Consumes [1] [Unity]"
+					"Comment [Consumes 1 Unity upon turn end]",
+					"Instantly consumes [1] [Unity] <upon turn end>"
 				],
 				"requires":[
 					"Secularism"
@@ -590,7 +592,8 @@
 				"name":"Free Speech",
 				"uniques":[
 					"[8] units cost no maintenance",
-					"Consumes [1] [Unity]"
+					"Comment [Consumes 1 Unity upon turn end]",
+					"Instantly consumes [1] [Unity] <upon turn end>"
 				],
 				"requires":[
 					"Constitution"
