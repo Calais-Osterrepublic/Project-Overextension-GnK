@@ -13,8 +13,8 @@
 		"cost":0,
 		"uniques":[
 			"Costs [1] [Unity]",
-			"Consumes [1] [Unity] <in this city> <in cities with at least [5] [Population]> <hidden from users>",
-			"Comment [Cities with at least 5 population consume 1 Unity per turn]",
+			"Consumes [1] [Unity] <in this city> <in cities with at least [10] [Population]> <hidden from users>",
+			"Comment [Cities with at least 10 population consume 1 Unity per turn]",
 			"Automatically built in all cities where it is buildable",
 			"Only available <in [non-[Puppeted]] cities>",
 			"Cannot build [Founds a new city] units <in this city> <when below [0] [Unity]> <hidden from users>",
