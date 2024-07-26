@@ -11,15 +11,16 @@
 	{
 		"name":"Charter",
 		"cost":0,
-		"requiredResource":"Unity",
 		"uniques":[
+			"Costs [1] [Unity]",
 			"Automatically built in all cities where it is buildable",
 			"Only available <in [non-[Puppeted]] cities>",
 			"Cannot build [Founds a new city] units <in this city> <when below [0] [Unity]> <hidden from users>",
 			"Comment [Cannot build city founder units in this city when below 0 Unity]",
 			"[+33]% Unhappiness from [Population] [in this city] <when below [0] [Unity]>",
-			"[+33]% Unhappiness from [Population] [in this city] <when below [-1] [Unity]>",
-			"[+34]% Unhappiness from [Population] [in this city] <when below [-2] [Unity]>",
+			"[+33]% Unhappiness from [Population] [in this city] <when below [-5] [Unity]>",
+			"[+34]% Unhappiness from [Population] [in this city] <when below [-10] [Unity]>",
+			"Nullifies [Culture] [in this city] <when below [-10] [Unity]>"
 		]
 	}
 ]
