@@ -4,6 +4,7 @@
 		"resourceType":"Strategic",
 		"uniques":[
 			"Cannot be traded",
+			"Stockpiled",
 			"Doesn't generate naturally"
 		]
 	}
