@@ -148,7 +148,8 @@
 			{
 				"name":"Liberty Complete",
 				"uniques":[
-					"Free Great Person"
+					"Free Great Person",
+					"Instantly provides [1] [Unity] <upon expending a [Great] unit>"
 				]
 			}
 		]
@@ -166,7 +167,8 @@
 		"uniques":[
 			"[+33]% Strength <vs [Barbarian] units>",
 			"Earn [100]% of killed [Barbarian] unit's [Strength] as [Culture]",
-			"Notified of new Barbarian encampments"
+			"Notified of new Barbarian encampments",
+			"Provides [1] [Unity] <upon defeating a [Barbarian] unit>"
 		],
 		"policies":[
 			{
@@ -267,7 +269,8 @@
 			{
 				"name":"Theocracy",
 				"uniques":[
-					"[+10]% [Gold] from every [Temple]"
+					"[+10]% [Gold] from every [Temple]",
+					"Provides [1] [Unity] <when below [1] [Unity]>"
 				],
 				"requires":[
 					"Organized Religion"
@@ -303,7 +306,9 @@
 				"name":"Piety Complete",
 				"uniques":[
 					"[Faith] cost of purchasing items in cities [-20]%",
-					"[+3 Gold, +3 Culture] from every [Holy site]"
+					"[+3 Gold, +3 Culture] from every [Holy site]",
+					"Instantly provides [1] [Unity] <upon expending a [Religious Unit] unit> <hidden from users>",
+					"Comment [Instantly provides 1 Unity upon expending a Religious unit]"
 				]
 			}
 		]
@@ -319,7 +324,8 @@
 			"Scientific":10
 		},
 		"uniques":[
-			"[-25]% City-State Influence degradation"
+			"[-25]% City-State Influence degradation",
+			"Consumes [1] [Unity]"
 		],
 		"policies":[
 			{
@@ -500,7 +506,8 @@
 				"name":"Free Thought",
 				"uniques":[
 					"[+1 Science] from every [Trading post]",
-					"[+17]% [Science] from every [University]"
+					"[+17]% [Science] from every [University]",
+					"Consumes [1] [Unity]"
 				],
 				"requires":[
 					"Secularism"
@@ -582,7 +589,8 @@
 			{
 				"name":"Free Speech",
 				"uniques":[
-					"[8] units cost no maintenance"
+					"[8] units cost no maintenance",
+					"Consumes [1] [Unity]"
 				],
 				"requires":[
 					"Constitution"
