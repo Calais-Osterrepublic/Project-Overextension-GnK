@@ -109,8 +109,7 @@
 				"name":"Collective Rule",
 				"uniques":[
 					"[+50]% Production when constructing [Settler] units [in capital]",
-					"Free [Settler] appears",
-					"Instantly provides [5] [Unity]"
+					"Free [Settler] appears"
 				],
 				"requires":[
 					"Republic"
